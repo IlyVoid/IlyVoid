@@ -4,11 +4,6 @@
 
 I'm a student @ 42Network, I have started my cource on programming this year and will be sharing all of my work on this page, I am 19, I code in C and python, I am dedicated to learn more of Cyber security so that is what my side project's will be based on.
 
-   <p align="left">
-      <a href="https://www.instagram.com/ilyvoid">
-         <img alt="instagram" title="Follow me on Instagram" src="label=FOLLOW&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
@@ -17,7 +12,7 @@ I'm a student @ 42Network, I have started my cource on programming this year and
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> />
-<img align="left" alt="Neovim" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />" />
+<img align="left" alt="Neovim" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <br />
 
 #
