@@ -26,5 +26,5 @@ I'm a student @ 42Network, I have started my cource on programming this year and
 #
 
 <details>
- <summary><h3>👨‍💻 IlyVoid's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Void's Coding Journey</h3></summary>
    I started my coding journey as a ICT student with a passion to learn everything I could about this programming world - code, unix, linux, theory. Now I managed to get into s19 of the 42Network and am really starting my journey to build up as much as I can. My dream is to start up a company fixated on Cyber Security and AI implementation.
