@@ -1,6 +1,6 @@
 # 🌀 IlyVoid
 
-**`Student/ entry level digital craftsman`**
+**`Student/ Intermediate level digital craftsman`**
 
 I'm a student @ 42Network, I have started my cource on programming this year and will be sharing all of my work on this page, I am 19, I code in C and python, I am dedicated to learn more of Cyber security so that is what my side project's will be based on.
 
