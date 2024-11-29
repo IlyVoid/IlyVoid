@@ -16,7 +16,7 @@ I'm a student @ 42Network, I have started my course on programming this year (20
 [![](https://visitcount.itsvg.in/api?id=IlyVoid&icon=5&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/luh.vxid) 
+  [![BuyMeACoffee](buymeacoffee.com/luh.vxid) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
