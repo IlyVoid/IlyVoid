@@ -97,7 +97,7 @@
 
 <div align="center">
   <p align="right"><i>Built with 🦫 energy by 𝖇𝖑4𝖘𝖘</i></p>
-  <p align="right"><i>Inspired by Nuageux</i></p>
+  <p align="right"><i>Inspired by Nuageux☁️</i></p>
 </div>
 
 ---
